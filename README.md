@@ -36,7 +36,7 @@ These equations summarize the released implementation rather than introducing an
 
 ## Public release scope
 
-This is a compact, inspection-friendly release with one end-to-end example: **PEMS03**. It includes the model, the PEMS03 data file, a training/evaluation engine, and one launcher. The following author-side artifacts are intentionally excluded:
+This is a compact, inspection-friendly release with one end-to-end example: **PEMS03**. It includes the model, the PEMS03 data file, a training/evaluation engine, and one launcher. The following are excluded:
 
 - the other 11 benchmark datasets and their launchers;
 - exploratory plots, statistical-test scripts, and paper-table utilities;
