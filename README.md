@@ -2,7 +2,7 @@
 
 **Koopman Separation and Efficient Multilevel Extraction for Time Series Forecasting**
 
-KUMA is a multivariate forecasting framework that separates an embedded time series into input-dependent Koopman dynamics and residual dynamics. The residual branch is processed by U-shaped Multilevel Attention (UMA), which combines element-wise filtering, RoPE-enhanced linear attention, progressive feature compression, and gated skip fusion.
+KUMA is a multivariate forecasting framework that separates an embedded time series into input-dependent Koopman dynamics and residual dynamics. The residual branch is processed by U-shaped Multilevel Attention (UMA), which combines element-wise filtering, ROPE-enhanced linear attention, progressive feature compression, and gated skip fusion.
 
 ![KUMA architecture](assets/KUMA.png)
 
